@@ -8,7 +8,11 @@
         "start": "ng serve",
         "test": "ng test",
         "lint": "ng lint",
-        "e2e": "ng e2e"
+        "e2e": "ng e2e",
+        "build": "ng build --base-href=\".\" --prod",
+        "predocker-build": "npm run build",
+        "docker-build": "docker build -t confmr.azurecr.io/basta-herbst-2017-angular-demo:latest .",
+        "docker-push": "docker push confmr.azurecr.io/basta-herbst-2017-angular-demo"
     },
     "author": "Manuel Rauber <manuel.rauber@thinktecture.com>",
     "repository": {
