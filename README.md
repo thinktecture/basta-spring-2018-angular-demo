@@ -1,8 +1,8 @@
 # basta-spring-2017-angular-demo
 
-Slides for this talk can be found on [Speakerdeck](https://speakerdeck.com/manuelrauber/angular-2-komponentenbasierte-html5-anwendungen-die-plattform).
+Slides for this talk can be found on [Speakerdeck](https://speakerdeck.com/manuelrauber/angular-komponentenbasierte-html5-anwendungen-fur-alle).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
