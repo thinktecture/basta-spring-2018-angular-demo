@@ -1,4 +1,4 @@
-# basta-spring-2017-angular-demo
+# basta-spring-2018-angular-demo
 
 Slides for this talk can be found on [Speakerdeck](https://speakerdeck.com/manuelrauber/angular-2-komponentenbasierte-html5-anwendungen-die-plattform).
 

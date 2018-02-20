@@ -1,5 +1,5 @@
 {
-    "name": "basta-herbst-2017-angular-demo",
+    "name": "basta-spring-2018-angular-demo",
     "version": "1.0.0",
     "license": "MIT",
     "angular-cli": {},
@@ -9,20 +9,17 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "build": "ng build --base-href=\".\" --prod",
-        "predocker-build": "npm run build",
-        "docker-build": "docker build -t confmr.azurecr.io/basta-herbst-2017-angular-demo:latest .",
-        "docker-push": "docker push confmr.azurecr.io/basta-herbst-2017-angular-demo"
+        "build": "ng build --base-href=. --prod"
     },
     "author": "Manuel Rauber <manuel.rauber@thinktecture.com>",
     "repository": {
         "type": "git",
-        "url": "https://github.com/thinktecture/basta-herbst-2017-angular-demo.git"
+        "url": "https://github.com/thinktecture/basta-spring-2018-angular-demo.git"
     },
     "bugs": {
-        "url": "https://github.com/thinktecture/basta-herbst-2017-angular-demo/issues"
+        "url": "https://github.com/thinktecture/basta-spring-2018-angular-demo/issues"
     },
-    "homepage": "https://github.com/thinktecture/basta-herbst-2017-angular-demo",
+    "homepage": "https://github.com/thinktecture/basta-spring-2018-angular-demo",
     "private": true,
     "dependencies": {
         "@angular/common": "5.0.0-beta.7",
