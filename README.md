@@ -1,6 +1,6 @@
 # basta-spring-2018-angular-demo
 
-Slides for this talk can be found on [Speakerdeck](https://speakerdeck.com/manuelrauber/angular-komponentenbasierte-html5-anwendungen-fur-alle).
+Slides for this talk can be found on [Speakerdeck](https://speakerdeck.com/chliebel/komponentenorientierte-webanwendungen-mit-angular).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
